@@ -1,0 +1,28 @@
+{
+  "users": {
+    "Doctor1": {
+      "role": "doctor",
+      "password": "12345"
+    }
+  },
+  "patients": {
+    "676767676767": {
+      "civilId": "676767676767",
+      "loginUser": "patient1",
+      "password": "12345",
+      "name": "Meshari Almutawaah",
+      "nameAr": "مشاري المطاوعه",
+      "age": 18,
+      "gender": "Male",
+      "genderAr": "ذكر",
+      "bloodType": "A+",
+      "nationality": "Kuwaiti",
+      "nationalityAr": "كويتي",
+      "allergies": [],
+      "chronicDiseases": [],
+      "temporaryDiseases": [],
+      "medications": [],
+      "notes": []
+    }
+  }
+}
