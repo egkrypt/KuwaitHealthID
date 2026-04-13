@@ -15,13 +15,13 @@
     "email": "Almutawaahmeshari@gmail.com",
     "phone": "",
     "password": "12345",
-    "trusted": [],
-    "dependents": [],
-    "allergies": [],
-    "chronicDiseases": [],
-    "temporaryDiseases": [],
-    "medications": [],
-    "files": [],
-    "appointments": []
+    "trusted": [zeeg],
+    "dependents": [zeeg],
+    "allergies": [zeeg],
+    "chronicDiseases": [zeeg],
+    "temporaryDiseases": [zeeg],
+    "medications": [zeeg],
+    "files": [zeeg],
+    "appointments": [zeeg]
   }
 }
